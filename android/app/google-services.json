@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "project_number": "1025220230606",
+    "project_id": "ayu-app-96e7a",
+    "storage_bucket": "ayu-app-96e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025220230606:android:84dc9f6533335481743f9f",
+        "android_client_info": {
+          "package_name": "com.example.ayu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025220230606-851lctb6t208ufopt3704rmt0s582ki5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_app",
+            "certificate_hash": "ef5ccfbd85f1e698ebf18a4d24cfed54ec0bc1db"
+          }
+        },
+        {
+          "client_id": "1025220230606-8u5qqtqa4b3stk2m51bbk6qoa44jvfmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_app",
+            "certificate_hash": "1b1dbff3abfde682d7dcc4a5658e14e034e4bd84"
+          }
+        },
+        {
+          "client_id": "1025220230606-ac4fiummf3lfqpmh3986tsgeqm1vj186.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_app",
+            "certificate_hash": "f570cd20d91b5e0e34d9146ec332a60a184a587b"
+          }
+        },
+        {
+          "client_id": "1025220230606-lqmkp3dei9rnt80hgljj5sep4n60jt2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_app",
+            "certificate_hash": "dda66f6b6c3890a4633c8adaacdfd6ff7c58604a"
+          }
+        },
+        {
+          "client_id": "1025220230606-2ifpc18b7ktpi8vq0aiccg45emaltup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtHdCDI9Mvd0MJGXX4wZrbdHXyxC5rkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025220230606-2ifpc18b7ktpi8vq0aiccg45emaltup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025220230606:android:5ab760e4bcc585b1743f9f",
+        "android_client_info": {
+          "package_name": "com.example.ayu_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025220230606-7bpravq573mmvprvec9josai1p0893mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_doctor",
+            "certificate_hash": "f570cd20d91b5e0e34d9146ec332a60a184a587b"
+          }
+        },
+        {
+          "client_id": "1025220230606-7pin66fgqs05qj6epeasbhp9faf8trv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_doctor",
+            "certificate_hash": "dda66f6b6c3890a4633c8adaacdfd6ff7c58604a"
+          }
+        },
+        {
+          "client_id": "1025220230606-8go9003imtb0tl8p6fr8sh5uhjt31000.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_doctor",
+            "certificate_hash": "ef5ccfbd85f1e698ebf18a4d24cfed54ec0bc1db"
+          }
+        },
+        {
+          "client_id": "1025220230606-v39681lhkkqhlb56vlpdh9hpc2hah67o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayu_doctor",
+            "certificate_hash": "1b1dbff3abfde682d7dcc4a5658e14e034e4bd84"
+          }
+        },
+        {
+          "client_id": "1025220230606-2ifpc18b7ktpi8vq0aiccg45emaltup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtHdCDI9Mvd0MJGXX4wZrbdHXyxC5rkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025220230606-2ifpc18b7ktpi8vq0aiccg45emaltup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
